@@ -1,0 +1,15 @@
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment13\bin\Debug\net6.0\assigment13.exe
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment13\bin\Debug\net6.0\assigment13.deps.json
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment13\bin\Debug\net6.0\assigment13.runtimeconfig.json
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment13\bin\Debug\net6.0\assigment13.dll
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment13\bin\Debug\net6.0\assigment13.pdb
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment13\obj\Debug\net6.0\assigment13.csproj.AssemblyReference.cache
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment13\obj\Debug\net6.0\assigment13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment13\obj\Debug\net6.0\assigment13.AssemblyInfoInputs.cache
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment13\obj\Debug\net6.0\assigment13.AssemblyInfo.cs
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment13\obj\Debug\net6.0\assigment13.csproj.CoreCompileInputs.cache
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment13\obj\Debug\net6.0\assigment13.dll
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment13\obj\Debug\net6.0\refint\assigment13.dll
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment13\obj\Debug\net6.0\assigment13.pdb
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment13\obj\Debug\net6.0\assigment13.genruntimeconfig.cache
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment13\obj\Debug\net6.0\ref\assigment13.dll
