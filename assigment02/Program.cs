@@ -1,6 +1,6 @@
 ﻿int a = 2;
 int b = 7;
-int c = 3
+int c = 3;
 
 int max = a;
 
