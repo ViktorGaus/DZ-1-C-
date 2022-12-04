@@ -1,0 +1,15 @@
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment19\obj\Debug\net6.0\assigment19.csproj.AssemblyReference.cache
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment19\obj\Debug\net6.0\assigment19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment19\obj\Debug\net6.0\assigment19.AssemblyInfoInputs.cache
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment19\obj\Debug\net6.0\assigment19.AssemblyInfo.cs
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment19\obj\Debug\net6.0\assigment19.csproj.CoreCompileInputs.cache
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment19\bin\Debug\net6.0\assigment19.exe
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment19\bin\Debug\net6.0\assigment19.deps.json
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment19\bin\Debug\net6.0\assigment19.runtimeconfig.json
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment19\bin\Debug\net6.0\assigment19.dll
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment19\bin\Debug\net6.0\assigment19.pdb
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment19\obj\Debug\net6.0\assigment19.dll
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment19\obj\Debug\net6.0\refint\assigment19.dll
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment19\obj\Debug\net6.0\assigment19.pdb
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment19\obj\Debug\net6.0\assigment19.genruntimeconfig.cache
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment19\obj\Debug\net6.0\ref\assigment19.dll
