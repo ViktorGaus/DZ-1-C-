@@ -5,8 +5,6 @@ void InputArray(double[] array)
     for (int i = 0; i < array.Length; i++)
     {   
     array[i] =new Random().Next(10, 100);
-
-    if (i < array.Length)
     array[i] = array[i] / 10;
     }  
 }

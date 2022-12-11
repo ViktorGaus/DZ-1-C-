@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ggoos\\OneDrive\\Рабочий стол\\Home 1\\assigment39\\assigment39.csproj": {}
+    "C:\\Users\\ggoos\\OneDrive\\Рабочий стол\\Home 1\\assigment38\\assigment39.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ggoos\\OneDrive\\Рабочий стол\\Home 1\\assigment39\\assigment39.csproj": {
+    "C:\\Users\\ggoos\\OneDrive\\Рабочий стол\\Home 1\\assigment38\\assigment39.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ggoos\\OneDrive\\Рабочий стол\\Home 1\\assigment39\\assigment39.csproj",
+        "projectUniqueName": "C:\\Users\\ggoos\\OneDrive\\Рабочий стол\\Home 1\\assigment38\\assigment39.csproj",
         "projectName": "assigment39",
-        "projectPath": "C:\\Users\\ggoos\\OneDrive\\Рабочий стол\\Home 1\\assigment39\\assigment39.csproj",
+        "projectPath": "C:\\Users\\ggoos\\OneDrive\\Рабочий стол\\Home 1\\assigment38\\assigment39.csproj",
         "packagesPath": "C:\\Users\\ggoos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ggoos\\OneDrive\\Рабочий стол\\Home 1\\assigment39\\obj\\",
+        "outputPath": "C:\\Users\\ggoos\\OneDrive\\Рабочий стол\\Home 1\\assigment38\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ggoos\\AppData\\Roaming\\NuGet\\NuGet.Config"
