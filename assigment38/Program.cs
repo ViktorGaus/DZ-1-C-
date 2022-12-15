@@ -1,11 +1,9 @@
-﻿using System.Collections;
-
-void InputArray(double[] array)
+﻿void InputArray(double[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {   
-    array[i] =new Random().Next(10, 100);
-    array[i] = array[i] / 10;
+    array[i] = new Random().NextDouble() /*Random().Next(10, 100)*/;
+    //array[i] = array[i] / 10;
     }  
 }
 
