@@ -1,0 +1,15 @@
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment47\obj\Debug\net6.0\assigment47.csproj.AssemblyReference.cache
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment47\obj\Debug\net6.0\assigment47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment47\obj\Debug\net6.0\assigment47.AssemblyInfoInputs.cache
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment47\obj\Debug\net6.0\assigment47.AssemblyInfo.cs
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment47\obj\Debug\net6.0\assigment47.csproj.CoreCompileInputs.cache
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment47\bin\Debug\net6.0\assigment47.exe
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment47\bin\Debug\net6.0\assigment47.deps.json
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment47\bin\Debug\net6.0\assigment47.runtimeconfig.json
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment47\bin\Debug\net6.0\assigment47.dll
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment47\bin\Debug\net6.0\assigment47.pdb
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment47\obj\Debug\net6.0\assigment47.dll
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment47\obj\Debug\net6.0\refint\assigment47.dll
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment47\obj\Debug\net6.0\assigment47.pdb
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment47\obj\Debug\net6.0\assigment47.genruntimeconfig.cache
+C:\Users\ggoos\OneDrive\Рабочий стол\Home 1\assigment47\obj\Debug\net6.0\ref\assigment47.dll
